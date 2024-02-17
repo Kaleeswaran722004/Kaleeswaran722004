@@ -1,4 +1,7 @@
-![](https://github.com/Kaleeswaran722004/Kaleeswaran722004/blob/main/2.gif)
+<center>
+  ![](https://github.com/Kaleeswaran722004/Kaleeswaran722004/blob/main/2.gif)
+</center>
+
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
