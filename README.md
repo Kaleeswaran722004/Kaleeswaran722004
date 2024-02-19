@@ -1,6 +1,4 @@
-
-  ![](https://github.com/Kaleeswaran722004/Kaleeswaran722004/blob/main/2.gif)
-
+<img align="center" alt="Coding" height = "480px" width="1600px" src=" https://github.com/Kaleeswaran722004/Kaleeswaran722004/blob/main/2.gif"><br>
 
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
