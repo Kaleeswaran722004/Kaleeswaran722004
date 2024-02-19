@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" height = "430px" width="1500px" src="/2.gif"><br>
+<img align="center" alt="Coding" height = "500px" width="1600px" src="/2.gif"><br>
 
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
