@@ -4,13 +4,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
   🌱 I’m currently learning **B.E Computer Science Engineering**
 
-- 👯 I’m looking to collaborate on **IT Sector Fields**
-
 - 💬 Ask me about **C,HTML,CSS,JS**
 
 - 📫 How to reach me **kaleeswaran722004@gmail.com**
-
-- ⚡ Fun fact **Curious Leaner**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" /> </p>
 
