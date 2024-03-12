@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-🌱 I’m currently learning **B.E Computer Science Engineering**
+  🌱 I’m currently learning **B.E Computer Science Engineering**
 
 - 👯 I’m looking to collaborate on **IT Sector Fields**
 
 - 💬 Ask me about **C,HTML,CSS,JS**
 
-- 📫 How to reach me **kirthickprince@gmail.com**
+- 📫 How to reach me **kaleeswaran722004@gmail.com**
 
 - ⚡ Fun fact **Curious Leaner**
 
