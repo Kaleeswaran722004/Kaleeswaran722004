@@ -1,7 +1,8 @@
 <p align="left">
   <center>
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" /> </p>
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" /> 
   </center>
+  </p>
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
   🌱 I’m currently learning **B.E Computer Science Engineering**
