@@ -1,6 +1,6 @@
 <p align="left">
   <center>
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" /> 
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" width="500px" height="700px" /> 
   </center>
   </p>
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
