@@ -1,4 +1,4 @@
-
+<p align="left"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" /> </p>
 <h1 align="center">Hi 👋, I'm Kaleeswaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
   🌱 I’m currently learning **B.E Computer Science Engineering**
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **kaleeswaran722004@gmail.com**
 
-<p align="left"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670664007515/7nRHqrTst.gif/?username=kaleeswaran722004&label=Profile%20views&color=0e75b6&style=flat" alt="kaleeswaran722004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleeswaran722004" alt="kaleeswaran722004" /></a> </p>
 
